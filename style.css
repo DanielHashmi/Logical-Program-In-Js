@@ -1,0 +1,13 @@
+div {
+    height: 20rem;
+    width: 40rem;
+    border: 5px solid gray;
+    transition: all ease .5s;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
